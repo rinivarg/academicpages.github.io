@@ -1,7 +1,4 @@
 ---
-Title: This is my news page
----
----
 title: "news page"
 collection: news
 permalink: /news/news.md
