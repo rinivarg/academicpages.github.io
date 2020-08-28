@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rini Varghese"
   avatar           : "Varghese_informal.jpeg"
-  bio              : "PhD Candidate in Biokinesiology, University of Southern California"
+  bio              : <b> "PhD Candidate" </b> <i> "Biokinesiology" </i> ", University of Southern California"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=rini+varghese"
