@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "RINI VARGHESE"
 title_separator          : "-"
-name                     : &name "Rini Varghese"
+name                     : &name <b> "Rini Varghese" </b>
 description              : &description "PhD Candidate, Biokinesiology, University of Southern California"
 url                      : https://rinivarg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
