@@ -1,1 +1,3 @@
-## This is my news page
+---
+Title: This is my news page
+---
