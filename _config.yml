@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to my webpage!"
+title                    : "RINI VARGHESE"
 title_separator          : "-"
 name                     : &name "Rini Varghese"
-description              : &description "PhD Candidate in Biokinesiology, University of Southern California"
+description              : &description "PhD Candidate, Biokinesiology, University of Southern California"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rinivarg/rinivarg.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rini Varghese"
-  avatar           : "profile.png"
+  avatar           : images/"Varghese_informal.jpeg"
   bio              : "PhD Candidate in Biokinesiology, University of Southern California"
   location         : "Los Angeles, CA"
   employer         :
