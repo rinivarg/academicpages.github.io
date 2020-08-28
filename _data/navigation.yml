@@ -3,16 +3,22 @@ main:
   - title: "News"
     url: /news/
     
-  - title: "CV"
-    url: /files/Varghese_CV_Aug2020.pdf
-  
-  - title: "Publications"
-    url: /publications/
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "Conference Travel"
     url: /conf_travel/
+    
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "CV"
+    url: /files/Varghese_CV_Aug2020.pdf
+  
+
+    
+
         
-  - title: "Blog Posts"
-    url: /year-archive/
+
     
 
