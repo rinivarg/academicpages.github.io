@@ -227,21 +227,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _news
   - scope:
       path: ""
-      type: portfolio
+      type: news
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _cv
   - scope:
       path: ""
-      type: talks
+      type: cv
     values:
-      layout: talk
+      layout: cv
       author_profile: true
       share: true
 
