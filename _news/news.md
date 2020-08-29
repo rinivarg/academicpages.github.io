@@ -1,7 +1,7 @@
 ---
 title: "news page"
 collection: news
-permalink: /news/
+permalink: /news/news.md
 excerpt: 'This is my news page'
 date: 2020-08-28
 venue: <i> Los Angeles, CA </i>
