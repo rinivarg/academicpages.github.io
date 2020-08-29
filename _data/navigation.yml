@@ -9,6 +9,9 @@ main:
   - title: "Conference Travel"
     url: /conf_travel/
     
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
     
