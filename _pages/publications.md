@@ -1,19 +1,3 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 ---
 layout: single
@@ -24,9 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
- {% if site.author.googlescholar or site.author.dblp %}
-  You can also find my publications on {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my dblp profile</a> {% endif %} {% if site.author.googlescholar and site.author.dblp %} and {% endif %} {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}.
- {% endif %}
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
 
 <h3>Year of Publication</h3>
 <ul style="padding-left: 1em;">
