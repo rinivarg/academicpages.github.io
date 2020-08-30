@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+ {% if site.author.googlescholar %}
+  You can also find my publications on {% if site.author.googlescholar %} <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>{% endif %}.
+ {% endif %}
 
 <h3>Year of Publication</h3>
 <ul style="padding-left: 1em;">
@@ -44,4 +44,3 @@ author_profile: true
   {% endif %}
   {% endif %}
 {% endfor %}
-
